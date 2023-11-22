@@ -1,0 +1,23 @@
+{
+  "name": "is_devjun",
+  "version": "1.0.0",
+  "description": "this is for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jun447/package.git"
+  },
+  "keywords": [
+    "devjun",
+    "jundev"
+  ],
+  "author": "Junaid Mumtaz aka devjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jun447/package/issues"
+  },
+  "homepage": "https://github.com/jun447/package#readme"
+}
