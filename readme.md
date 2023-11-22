@@ -7,13 +7,15 @@
 To install `is_devjun`, use the following command:
 
 ```bash
-npm install is_devjun
+npm i is_devjun_package
 ```
 # Usage
 
 ```js
-const isdevjun = require("is_devjun"); // returns true
-const isdevjun = require("is_devjun"); // returns false
+const isdevjun = require("is_devjun_package"); 
+
+console.log(isdevjun('devjun')); // returns true
+console.log(isdevjun('1234')); // returns false
 ```
 
 ## Function: isdevjun
